@@ -1,0 +1,16 @@
+{
+  "name": "fetch_fluency_quiz1",
+  "version": "1.0.0",
+  "description": "## Directions For the following questions, use the [JSON Placeholder API](https://jsonplaceholder.typicode.com)",
+  "main": "app.js",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Reuben Ogbonna",
+  "license": "ISC"
+}
