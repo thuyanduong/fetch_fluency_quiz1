@@ -1,4 +1,4 @@
-# Code Fluency Quiz: Asynchronous HTTP Requests
+# Code Fluency Quiz: Fetch API + Asynchronous HTTP Requests
 
 ## Directions
 For the following questions, use the [JSON Placeholder API](https://jsonplaceholder.typicode.com).
