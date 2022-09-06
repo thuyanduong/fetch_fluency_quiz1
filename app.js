@@ -79,6 +79,7 @@ function renderName(e) {
     } else {
       div.append("User Not Found")
     }
+    document.getElementById("form").reset()
   })
 }
 
