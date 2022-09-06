@@ -1,4 +1,4 @@
-// const fetch = require('node-fetch');
+const fetch = require('node-fetch');
 
 
 function getPost(id) {
@@ -46,7 +46,7 @@ function searchPosts(searchWord){
   })
 }
 
-document.getElementById("form").addEventListener("submit" ,renderName);
+// document.getElementById("form").addEventListener("submit" ,renderName);
 function renderName(e) {
   e.preventDefault()
   fetch(`https://jsonplaceholder.typicode.com/users`)
